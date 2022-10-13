@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-
+"""
+Class Square object
+"""
 
 class Square:
     '''Class Square object intialized with size

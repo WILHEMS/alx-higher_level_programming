@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-
+"""
+Private instance
+"""
 
 class Square:
     """
